@@ -45,30 +45,6 @@
         "text": "Discord",
         "url": "https://discord.gg/8VDJZQfH"
       },
-      {
-        "text": "Wiki",
-        "url": "https://wiki.wbui2.de"
-      },
-      {
-        "text": "CurseForge",
-        "url": "https://www.curseforge.com/ark-survival-ascended/mods/wbui2"
-      },
-      {
-        "text": "JSON-Validator",
-        "url": "https://jsonlint.com"
-      },
-      {
-        "text": "Github",
-        "url": "https://github.com"
-      },
-      {
-        "text": "Imgur",
-        "url": "https://imgur.com"
-      },
-      {
-        "text": "Example JSON",
-        "url": "https://raw.githubusercontent.com/DC-Modding/WBUI2-Wiki/main/example.json"
-      }
     ],
     "version": 2
   }
