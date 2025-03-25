@@ -4,7 +4,7 @@
       "openbutton": 1,
       "hideicon": false,
       "hideiconafter": 60,
-      "iconurl": "https://i.imgur.com/OZ6xOjY.png",
+      "iconurl": "https://imgur.com/gallery/ark-server-pic-sbusn2R",
       "disableicontext": false,
       "iconposition": 0,
       "icontextcolor": 0,
@@ -16,18 +16,18 @@
       {
         "layout": 1,
         "buttontext": "Welcome",
-        "imageurl": "https://i.imgur.com/mGt3cAF.png",
+        "imageurl": "https://imgur.com/gallery/ark-server-pic-sbusn2R",
         "content": [
           {
             "title": "Welcome to RoyalASA!",
-            "text": "This cluster is in very early stages, sorry if stuff changes or if there are frequent restarts still trying to iron out all settings. more options will be added as we go along. Feel free to join the discord at the link below."
+            "text": "This cluster is in very early stages, sorry if stuff changes or if there are frequent restarts still trying to iron out all settings. more options will be added as we go along. Feel free to join the discord at the link below. Also servers will be undergoing a complete name change, this will not affect any of your dinos/buildings or anything else.. will just be a rename of the cluster itself. Brutal Instincs"
           }
         ]
       },
       {
         "layout": 2,
         "buttontext": "Settings",
-        "imageurl": "https://i.imgur.com/mGt3cAF.png",
+        "imageurl": "https://imgur.com/gallery/ark-server-pic-sbusn2R",
         "content": [
           {
             "title": "Server Settings",
