@@ -16,7 +16,7 @@
       {
         "layout": 1,
         "buttontext": "Welcome",
-        "imageurl": "https://i.imgur.com/oPLTZWg.png",
+        "imageurl": "",
         "content": [
           {
             "title": "Welcome to RoyalASA!",
@@ -27,7 +27,7 @@
       {
         "layout": 2,
         "buttontext": "Settings",
-        "imageurl": "https://i.imgur.com/oPLTZWg.png",
+        "imageurl": "",
         "content": [
           {
             "title": "Server Settings",
@@ -43,7 +43,7 @@
     "links": [
       {
         "text": "Discord",
-        "url": "https://i.imgur.com/oPLTZWg.png"
+        "url": "https://discord.gg/8VDJZQfH"
       },
     ],
     "version": 2
