@@ -1,163 +1,62 @@
 {
-  "WBUI2": {
-    "settings": {
-      "openbutton": 1,
-      "hideicon": True,
-      "hideiconafter": 60,
-      "iconurl": "https://i.imgur.com/oPLTZWg.png",
-      "disableicontext": false,
-      "iconposition": 0,
-      "icontextcolor": 0,
-      "openonstart": true,
-      "openonstartonlynewplayers": true,
-      "updateinterval": 1
-    },
-    "tabs": [
-      {
-        "layout": 1,
-        "buttontext": "Welcome",
-        "imageurl": "",
-        "content": [
-          {
-            "title": "Name Change to Brutal Instincts Friday March 28th.",
-            "text": "This cluster is in very early stages, sorry if stuff changes or if there are frequent restarts still trying to iron out all settings. more options will be added as we go along. Feel free to join the discord at the link below. Also servers will be undergoing a complete name change, this will not affect any of your dinos/buildings or anything else.. will just be a rename of the cluster itself. Brutal Instincts, will be changed around 10pm friday EDT - GMT-4"
-          }
+    "WBUI2": {
+        "settings": {
+            "openbutton": 1,
+            "hideicon": true,
+            "hideiconafter": 60,
+            "iconurl": "https://i.imgur.com/oPLTZWg.png",
+            "disableicontext": false,
+            "iconposition": 0,
+            "icontextcolor": 0,
+            "openonstart": true,
+            "openonstartonlynewplayers": true,
+            "updateinterval": 1
+        },
+        "tabs": [
+            {
+                "layout": 1,
+                "buttontext": "Welcome",
+                "imageurl": "",
+                "content": [
+                    {
+                        "title": "Name Change to Brutal Instincts Friday March 28th.",
+                        "text": "This cluster is in very early stages, sorry if stuff changes or if there are frequent restarts still trying to iron out all settings. more options will be added as we go along. Feel free to join the discord at the link below. Also servers will be undergoing a complete name change, this will not affect any of your dinos/buildings or anything else.. will just be a rename of the cluster itself. Brutal Instincts, will be changed around 10pm friday EDT - GMT-4"
+                    }
+                ]
+            },
+            {
+                "layout": 2,
+                "buttontext": "Settings",
+                "imageurl": "",
+                "content": [
+                    {
+                        "title": "Server Administration",
+                        "text": "Admin Authority, \nAdmins have the final say in disputes and interpretations of the rules. \nPlease respect their decisions and follow their instructions. \nRule Amendments: \nRules are subject to change; players will be notified of significant updates. It is the players responsibility to stay informed about the current rules. \nEmergency Interventions: \nIn case of server performance issues or emergencies, admins reserve the right to take necessary actions to stabilize the server. This may include removing structures or tames that are causing issues. \nAdmin Interaction:\nDo not ask admins for unfair advantages, such as spawning items or creatures. Admins will not replace lost items or tames unless the loss was due to a server error.\nConsequences for Rule Violations:\nFirst Offense: Warning and possible temporary suspension.\nSecond Offense: Longer suspension and possible removal of structures or tames.\nRepeated or Severe Offenses: Permanent ban from the server."
+                    },
+                    {
+                        "title": "Dinosaur Policies",
+                        "text": "Taming and Breeding, \nLimits, \nA limit of 150 (based on your permission), \ndinosaurs per tribe per map to avoid overpopulation and server lag., \nRegularly clean up unused or excess tames., \nPassive Tames Protection, \nDo not kill or harm passive tames belonging to other players., \nNo Mass Breeding, \nAvoid mass breeding or hatching large numbers of eggs simultaneously to prevent server lag., \nBe considerate of server performance and other players."
+                    }
+                ]
+            },
+            {
+                "layout": 3,
+                "buttontext": "Rules",
+                "imageurl": "",
+                "content": [
+                    {
+                        "title": "General Server Rules",
+                        "text": "Respectful Names and Content, \nAll player, tribe, and dinosaur names must be appropriate and non-offensive, suitable for a general audience., \nAvoid using any language or content that could be considered offensive or inappropriate., \nFair Gameplay, \nCheating, exploiting bugs, or using glitches is strictly prohibited., \nBuilding in unauthorized areas, such as under the map or inside unintended areas, is not allowed., \nDo not use third-party programs or mods that provide unfair advantages., \nActive Participation, \nIf you plan to be inactive for more than 60 days, please notify the admins., \nProlonged inactivity without notice may lead to the removal of structures and tamed creatures to free up space for active players., \nLanguage Use, \nEnglish should be used in global communications to ensure everyone can understand., \nPrivate or tribe chats can be in any language., \nNo Real Money Trading, \nTrading in-game items, creatures, or services for real-world money or goods is strictly prohibited., \nNo Advertising, \nDo not advertise other servers, products, or services without prior permission from the admins., \nHarassment-Free Environment, \nAny form of harassment, including hate speech, racism, sexism, and personal attacks, is not tolerated., \nBe respectful to all players at all times., \nPvE Conduct, \nThis is a PvE server; engaging in PvP behavior such as stealing, griefing, or killing other players' creatures is forbidden., \nDo not damage or alter another player's structures or tames., \nFirst Claim Rights, \nThe first player to arrive at a resource or loot drop has the right to it., \nDo not steal from or interfere with another player's loot., \nDinosaur Management, \nDo not lure wild dinosaurs into other players' bases., \nUnattended or abandoned tames may be removed by admins., \nPositive Community, \nMaintain a positive and friendly atmosphere., \nContributions that negatively affect the server's environment are not allowed., \nConflict Resolution, \nIf you have an issue with another player, try to resolve it calmly., \nIf necessary, involve an admin to mediate the situation., \nBuilding and Environmental Conservation, \nBuilding Limits, \nBases must be at least 200 meters (820 feet) away from any other base; use in-game tools to measure distance., \nRemove excess structures and temporary taming pens after use., \nResource Conservation, \nDo not build on or block access to valuable resource spawns, such as metal, crystal, obsidian, or oil nodes., \nCaves with artifacts or special resources must remain accessible to all players. Cave building is turned on, but please keep in mind players need to be able to access artifacts. ANY base found in violation of this will lose base elements due to being destroyed by admins. DO NOT block artifacts, \nObelisk and Critical Area Accessibility, \nObelisks, charge nodes, and other critical areas must remain accessible to all players., \nDo not build structures that impede access to these locations., \nNo Foundation/Pillar Spamming, \nDo not place structures such as foundations or pillars to claim land or prevent others from building., \nSuch structures may be removed by admins without warning., \nTrain Usage, \nPlease use any transportation systems, like trains, responsibly and within your own bases., \nUnlocked Structures, \nAll oil pumps gas collectors and similar communal resource gatherers must remain unlocked for public use., \nCave Building, \nBuilding inside caves is TURNED ON., \nPlayers are prohibited from leaving dinosaurs inside caves; any left may be removed without warning., \nEnvironment Preservation, \nDo not intentionally destroy foliage or landscape features around other players' bases."
+                    }
+                ],
+                "links": [
+                    {
+                        "text": "Discord",
+                        "url": "https://discord.gg/8VDJZQfH"
+                    }
+                ],
+                "version": 2
+            }
         ]
-      },
-      {
-        "layout": 2,
-        "buttontext": "Settings",
-        "imageurl": "",
-        "content": [
-          {
-            "title": "Server Administration",
-            "text": "Admin Authority
-Admins have the final say in disputes and interpretations of the rules.
-Please respect their decisions and follow their instructions.
-
-Rule Amendments
-Rules are subject to change; players will be notified of significant updates.
-It is the player's responsibility to stay informed about the current rules.
-
-Emergency Interventions
-In case of server performance issues or emergencies, admins reserve the right to take necessary actions to stabilize the server.
-This may include removing structures or tames that are causing issues.
-
-Admin Interaction
-Do not ask admins for unfair advantages, such as spawning items or creatures.
-Admins will not replace lost items or tames unless the loss was due to a server error.
-Consequences for Rule Violations
-First Offense: Warning and possible temporary suspension.
-Second Offense: Longer suspension and possible removal of structures or tames.
-Repeated or Severe Offenses: Permanent ban from the server."
-          },
-          {
-            "title": "Dinosaur Policies",
-            "text": "Taming and Breeding Limits
-A limit of 150 (based on your permission) dinosaurs per tribe per map to avoid overpopulation and server lag.
-Regularly clean up unused or excess tames.
-
-Passive Tames Protection
-Do not kill or harm passive tames belonging to other players.
-
-No Mass Breeding
-Avoid mass breeding or hatching large numbers of eggs simultaneously to prevent server lag.
-Be considerate of server performance and other players."
-          }
-        ]
-      },
-      {
-        "layout": 1,
-        "buttontext": "Rules",
-        "imageurl": "",
-        "content": [
-          {
-            "title": "General Server Rules",
-            "text": "Respectful Names and Content
-All player, tribe, and dinosaur names must be appropriate and non-offensive, suitable for a general audience.
-Avoid using any language or content that could be considered offensive or inappropriate.
-
-Fair Gameplay
-Cheating, exploiting bugs, or using glitches is strictly prohibited.
-Building in unauthorized areas, such as under the map or inside unintended areas, is not allowed.
-Do not use third-party programs or mods that provide unfair advantages.
-
-Active Participation
-If you plan to be inactive for more than 60 days, please notify the admins.
-Prolonged inactivity without notice may lead to the removal of structures and tamed creatures to free up space for active players.
-
-Language Use
-English should be used in global communications to ensure everyone can understand.
-Private or tribe chats can be in any language.
-
-No Real Money Trading
-Trading in-game items, creatures, or services for real-world money or goods is strictly prohibited.
-
-No Advertising
-Do not advertise other servers, products, or services without prior permission from the admins.
-
-Harassment-Free Environment
-Any form of harassment, including hate speech, racism, sexism, and personal attacks, is not tolerated.
-Be respectful to all players at all times.
-
-PvE Conduct
-This is a PvE server; engaging in PvP behavior such as stealing, griefing, or killing other players' creatures is forbidden.
-Do not damage or alter another player's structures or tames.
-
-First Claim Rights
-The first player to arrive at a resource or loot drop has the right to it.
-Do not steal from or interfere with another player's loot.
-
-Dinosaur Management
-Do not lure wild dinosaurs into other players' bases.
-Unattended or abandoned tames may be removed by admins.
-
-Positive Community
-Maintain a positive and friendly atmosphere.
-Contributions that negatively affect the server's environment are not allowed.
-
-Conflict Resolution
-If you have an issue with another player, try to resolve it calmly.
-If necessary, involve an admin to mediate the situation.
-
-Building and Environmental Conservation
-Building Limits
-
-Bases must be at least 200 meters (820 feet) away from any other base; use in-game tools to measure distance.
-Remove excess structures and temporary taming pens after use.
-
-Resource Conservation
-Do not build on or block access to valuable resource spawns, such as metal, crystal, obsidian, or oil nodes.
-Caves with artifacts or special resources must remain accessible to all players. Cave building is turned on, but please keep in mind players need to be able to access artifacts. ANY base found in violation of this will lose base elements due to being destroyed by admins. DO NOT block artifacts
-
-Obelisk and Critical Area Accessibility
-Obelisks, charge nodes, and other critical areas must remain accessible to all players.
-Do not build structures that impede access to these locations.
-
-No Foundation/Pillar Spamming
-Do not place structures such as foundations or pillars to claim land or prevent others from building.
-Such structures may be removed by admins without warning.
-
-Train Usage
-Please use any transportation systems, like trains, responsibly and within your own bases.
-
-Unlocked Structures
-All oil pumps gas collectors and similar communal resource gatherers must remain unlocked for public use.
-
-Cave Building
-Building inside caves is TURNED ON.
-Players are prohibited from leaving dinosaurs inside caves; any left may be removed without warning.
-
-Environment Preservation
-Do not intentionally destroy foliage or landscape features around other players' bases."
-          }
-    ],
-    "links": [
-      {
-        "text": "Discord",
-        "url": "https://discord.gg/8VDJZQfH"
-      },
-    ],
-    "version": 2
-  }
+    }
 }
